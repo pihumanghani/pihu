@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pihu/static/css/main.ee9995d5.css",
+    "main.js": "/pihu/static/js/main.2194ee95.js",
+    "static/js/787.d4143961.chunk.js": "/pihu/static/js/787.d4143961.chunk.js",
+    "static/media/hub.jpg": "/pihu/static/media/hub.599070e978c90708a4b1.jpg",
+    "static/media/rocket.jpg": "/pihu/static/media/rocket.02314c3a5216b96f27d8.jpg",
+    "static/media/laptop.jpg": "/pihu/static/media/laptop.b97c7a7bb8faf9423725.jpg",
+    "static/media/Code.jpg": "/pihu/static/media/Code.fb5dcb03fe752dac0edf.jpg",
+    "static/media/Apple.jpg": "/pihu/static/media/Apple.ecf5ab1ed39ec71b1a48.jpg",
+    "static/media/An.jpg": "/pihu/static/media/An.c3d9cd42681f47e82202.jpg",
+    "static/media/Pc.jpg": "/pihu/static/media/Pc.17de88eb7ac38dcc7d19.jpg",
+    "static/media/tiger.jpg": "/pihu/static/media/tiger.be184d3e17748b2e3355.jpg",
+    "static/media/pi.jpg": "/pihu/static/media/pi.e3c4c69be699529cd7d9.jpg",
+    "index.html": "/pihu/index.html",
+    "main.ee9995d5.css.map": "/pihu/static/css/main.ee9995d5.css.map",
+    "main.2194ee95.js.map": "/pihu/static/js/main.2194ee95.js.map",
+    "787.d4143961.chunk.js.map": "/pihu/static/js/787.d4143961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9995d5.css",
+    "static/js/main.2194ee95.js"
+  ]
+}
